@@ -107,7 +107,7 @@ Predicting the credit approval using the test set, the obtained performance scor
 | Recall    	| 0.909091            	| 0.836364      	| 0.800000 	|
 | F1        	| 0.826446            	| 0.836364      	| 0.785714 	|
 
-From the metrics above, Random Forest can be considered the best model due to the high accuracy and F1 Score. As the data is slightly imbalanced, the F1 Score might be the best consideration for model performance metrics.
+From the metrics above, Random Forest can be considered the best model due to the high accuracy and F1 Score. As the data is slightly imbalanced, the F1 Score might be the best consideration for model performance metrics. Based on this result, the model which will be used for the program is Random Forest.
 
 
 ### 3. Add applicant data to the Credit Approval Prediction Program
